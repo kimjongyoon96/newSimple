@@ -1,6 +1,5 @@
 import GithubIcon from "@/assets/images/github.svg";
 import WebIcon from "@/assets/images/web.svg";
-
 const Links = ({ repoUrl, webUrl }: { repoUrl: string; webUrl: string | undefined }) => {
   return (
     <div className="flex gap-1">

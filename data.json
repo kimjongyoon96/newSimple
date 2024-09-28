@@ -17,18 +17,40 @@
   "project": [
     {
       "id": 0,
-      "name": "첫번째 팀 프로젝트",
-      "github": "https://github.com/sjoleee/",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
+      "name": "멍타",
+      "github": "https://github.com/kimjongyoon96/-",
+      "description": "지도 기반으로 산책 친구를 매칭할수있는 프로젝트",
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/sjoleee/",
       "isTeam": true,
-      "period": ["2022. 07", "2022. 09"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+      "period": ["2023. 02", "2022. 04"],
+      "stack": ["JavaScript", "node.JS", "MySQL", "JWT", "busBoy", "soket.io"]
     },
     {
       "id": 1,
-      "name": "첫번째 개인 프로젝트",
+      "name": "주식 추천 프로그램",
+      "github": "https://github.com/kimjongyoon96/KDT-2-Project-A-3",
+      "description": "주식을 추천해주는 리액트 네이티브 기반 앱입니다.",
+      "webUrl": "https://github.com/sjoleee/",
+      "repoUrl": "https://github.com/sjoleee/",
+      "isTeam": true,
+      "period": ["2023. 05", "2022. 06"],
+      "stack": ["Python Flask", "Socket", "React-Native", "typeScript"]
+    },
+    {
+      "id": 2,
+      "name": "행세다",
+      "github": "https://github.com/kimjongyoon96/KDT-2-Project-B-1",
+      "description": "지도를 기반으로, 먹보라는 페르소나를 선택, 맛집을 추천해줍니다.",
+      "webUrl": "https://github.com/sjoleee/",
+      "repoUrl": "https://github.com/kimjongyoon96/KDT-2-Project-B-1",
+      "isTeam": true,
+      "period": ["2023. 06", "2022. 07"],
+      "stack": ["React-Native", "nest.js"]
+    },
+    {
+      "id": 3,
+      "name": "장카설유",
       "description": "장원영,카리나,설윤,유나의 이미지를 업로드 하고 소통할수잇는 커뮤니티입니다.",
       "webUrl": "https://jangkasulyoo.site",
       "repoUrl": "https://github.com/kimjongyoon96/karina-project",
@@ -45,61 +67,51 @@
         "Dokcer",
         "postgres"
       ]
+    },
+    {
+      "id": 4,
+      "name": "급하다,급해",
+      "description": "현재 위치를 기반으로 응급실을 조회, 상세정보를 사용자가 최적화된 형태로 제공합니다.",
+      "webUrl": "htttp://www.naver.com",
+      "repoUrl": "https://github.com/kimjongyoon96/chanbakhan-world/tree/main/apartment-world",
+      "isTeam": false,
+      "period": ["2024. 8", "ing"],
+      "stack": ["JavaScript", "HTML/CSS", "next.js", "React.js", "typeScript", "JustAnd", "Dokcer"]
     }
   ],
 
-  "activity": [
-    {
-      "id": 0,
-      "name": "첫번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "첫번째 활동에 대한 간략한 설명"
-    },
-    {
-      "id": 1,
-      "name": "두번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "두번째 활동에 대한 간략한 설명"
-    }
-  ],
+  "activity": [],
 
   "education": [
     {
       "id": 0,
-      "name": "첫번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "첫번째 교육에 대한 간략한 설명"
-    },
-    {
-      "id": 1,
-      "name": "두번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "두번째 교육에 대한 간략한 설명"
+      "name": "그린컴퓨터학원 풀스택 웹개발자",
+      "period": ["2023. 01", "2023. 07"],
+      "description": "풀스택 개발 수료"
     }
   ],
 
   "certificate": [
     {
       "id": 0,
-      "name": "TOEIC 1000점",
-      "date": "2019. 07. 28",
+      "name": "TOEIC 900점",
+      "date": "2024. 10. 28",
       "organizer": "ETS"
     },
     {
       "id": 1,
-      "name": "OPIC IH",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
+      "name": "PCCP",
+      "date": "2024. 10. 13",
+      "organizer": "programmers"
     }
   ],
-
   "award": [
     {
       "id": 0,
-      "name": "첫번째 수상",
-      "date": "2019. 07. 28",
-      "organizer": "수여기관",
-      "description": "첫번째 수상에 대한 간략한 설명"
+      "name": "",
+      "date": "",
+      "organizer": "",
+      "description": ""
     }
   ]
 }
